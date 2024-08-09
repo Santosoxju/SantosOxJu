@@ -4,7 +4,7 @@
 </div>
 <img src="https://i.imgur.com/vJP6oVr.png">
 
-[![YouTube Channel Subscribers]()
+
 ## Sobre mi
 
 - ⭐ Github Star ⭐ 
